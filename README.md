@@ -122,6 +122,15 @@ SQLDatabaseChain → Generates SQL Query
 
 -----
 
+## 🚀 Empowering SQL with Language Models: Bridging Data & Decision-Making 🧠
+
+This project demonstrates a powerful integration of LangChain with a local SQL database, enabling real-time natural language querying for tabular datasets.
+
+-----
+
+
+-----
+
 ## 📬 Connect With Me
 
 Like the project? Let’s connect\!
@@ -130,13 +139,5 @@ Like the project? Let’s connect\!
   * 📊 [Kaggle](https://www.kaggle.com/emmanueljireh)
   * 📝 [Medium](https://medium.com/@emmanueljirehb)
   * 💼 [LinkedIn](https://www.linkedin.com/in/emmanueljirehb)
-
------
-
------
-
-# 🚀 Empowering SQL with Language Models: Bridging Data & Decision-Making 🧠
-
-This project demonstrates a powerful integration of LangChain with a local SQL database, enabling real-time natural language querying for tabular datasets.
 
 -----
